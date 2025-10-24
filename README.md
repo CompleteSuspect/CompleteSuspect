@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CompleteSuspect
-- 👀 I’m interested in Python, PPC, hardware enthusiast.
+- 👀 I’m interested in Python, Data Science, hardware enthusiast.
 - 🌱 I’m currently learning ... Python!
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... On here!
